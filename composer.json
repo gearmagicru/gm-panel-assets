@@ -1,0 +1,29 @@
+{
+    "name": "gearmagicru/gm-panel-assets",
+    "description": "GM Panel assets",
+    "keywords": [
+        "gm",
+        "gearmagic",
+        "panel"
+    ],
+    "homepage": "https://github.com/gearmagicru/gm-panel-assets",
+    "type": "gm",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tivonenko",
+            "email": "anton.tivonenko@gmail.com",
+            "homepage": "https://gearmagic.ru"
+        }
+    ],
+    "require": {
+        "gearmagicru/gm-composer-plugin": "*"
+    },
+    "extra": {
+        "gm": {
+            "path": "/public/vendors/gm/panel"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
