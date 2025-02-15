@@ -1,11 +1,7 @@
 {
     "name": "gearmagicru/gm-panel-assets",
     "description": "GM Panel assets",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "panel"
-    ],
+    "keywords": ["gearmagic", "gm-panel", "assets"],
     "homepage": "https://github.com/gearmagicru/gm-panel-assets",
     "type": "gm",
     "license": "MIT",
