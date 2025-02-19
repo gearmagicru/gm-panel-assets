@@ -26,4 +26,4 @@ php composer.phar require gearmagicru/gm-panel-assets "*"
 
 в раздел "require" вашего файла `composer.json`.
 
-Панель управления будет установлена в директорию `/public/vendors/gm/panel` вашего веб-приложения.
+Панель управления будет установлена в директорию `/public/vendors/gm/panel` вашего веб-приложения GearMagic.
