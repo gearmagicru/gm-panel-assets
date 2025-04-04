@@ -27,7 +27,8 @@ Ext.define('Gm.view.grid.column.Switch', {
     extend: 'Ext.grid.column.Column',
     xtype: 'g-gridcolumn-switch',
     alias: 'widget.g-gridcolumn-switch',
-    width: 60,
+    width: 63,
+    resizable: false,
     rowId: 0,
 
     /**
